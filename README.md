@@ -13,7 +13,7 @@ Windows 10 & 11 or +
    
 If you are gonna clone it.
 
-`gh repo clone Fireistocool/Repotool`
+`gh repo clone Fireiscold/Repotool`
 
 
 ## Disclaimer
