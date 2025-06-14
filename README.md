@@ -1,8 +1,8 @@
-## Requirements
+## Requirements 🛡️
 Install <a href="https://www.python.org/downloads/">Python</a>
 Windows 10 & 11 or +
 
-## How to Install?
+## How to Install? ❓
 
 1. Download as a ZIP or clone it.
 2. Extact it
@@ -16,13 +16,13 @@ If you are gonna clone it.
 `gh repo clone Fireiscold/Repotool`
 
 
-## Disclaimer
+## Disclaimer ‼️‼️
 RepoTool has been developed solely for educational purposes.
 This project has been created with good intentions and is intended for personal use only.
 By choosing to use Repotool, you acknowledge and accept full responsibility for any consequences that may result from your actions.
 
 
-## Features
+## Features 🔥
 `1. Webhook Spammer`
 
 `2. Webhook Information`
@@ -68,7 +68,7 @@ By choosing to use Repotool, you acknowledge and accept full responsibility for 
 
 
 
-## Credits 
+## Credits 🧑
 Fireistocool
 Discord: `_fireistocool_`
 
