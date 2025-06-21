@@ -1,3 +1,8 @@
+
+
+# V2 Is coming soon!!!
+
+
 ## Requirements 🛡️
 Install <a href="https://www.python.org/downloads/">Python</a>
 Windows 10 & 11 or +
